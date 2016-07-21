@@ -44,13 +44,13 @@ cl_crosshairusealpha "1"
 ### Mouse driver configuration
 
 ```
-precision 10'000 DPI
+precision 400 DPI
 ```
 
 ### In game Sensitivity
 
 ```
-sensitivity 0.1
+sensitivity 1.5
 ```
 
 ## Netcode
