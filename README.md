@@ -39,7 +39,9 @@ cl_crosshairusealpha "1"
 
 ### Windows mouse configuration
 
-![](https://lh3.googleusercontent.com/5_OXR-EGeQzsPCBDxwyMliqhB7OFDWgWc_wPvjqRzLsMUok0kl4Vtx35BOez3fL_QHyG-0P9_Jm5UeTrFCDwas15JoA8sVNBEYXmgeUhD9EU_QvvUSSERhFJBbSNAi24-ciSZ6nTP17tjgvR69jTn8nVOhYv25B4EgRX3j1mFc4JxdV_tJT2uRmTQWPuxvrXTJ6SBBvQxvedTftn8RYS-m8lqfHKIA0NCSA2mpq1BY8Gxk-0obletkdbOYlzTq6XPIgcSYwaRU0_5YCAzU4PaeSuT4B5urNn6ns9I9f2pqw8uPmrFDYE2wJnZXo_qHwsQzHwnM7rV-JOwKL4WHBbxgS-Q_axuVqwNRjgcysfJJeJf18Biaxhx24VTqNmA56YMhIGhEUDIin_ug97rc8sO8IQ61yOrYArXRTbu3cTPHuEMsO4PnpJR5IFfbBeP4SkkvYGG38WAgoHlZx0WnWLe2DhugFbKU3C5uR4VxXIS2c8WC6e-eip69LfXQ0b8ojbEJGq8Qm_XFRyBoR4MjIKfjgW90xmMYdOFcjra81uDUzs1rIxl8CBvNHmCrwco6TpyPM5=w414-h461-no)
+```
+6/12
+```
 
 ### Mouse driver configuration
 
@@ -50,7 +52,7 @@ precision 400 DPI
 ### In game Sensitivity
 
 ```
-sensitivity 1.5
+sensitivity 1.85
 ```
 
 ## Netcode
