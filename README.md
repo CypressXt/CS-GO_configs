@@ -30,7 +30,7 @@ cl_crosshairgap "-2.000000"
 cl_crosshairgap_useweaponvalue "0"
 cl_crosshairscale "0"
 cl_crosshairsize "2.000000"
-cl_crosshairstyle "5"
+cl_crosshairstyle "4"
 cl_crosshairthickness "0.500000"
 cl_crosshairusealpha "1"
 ```
@@ -91,6 +91,6 @@ net_splitpacket_maxrate "1048576"
 ### Peripherals
 
 - [Display Benq XL2430T](http://www.benq.com/product/monitor/xl2430t/)
-- [Keyboard Corsair vengeance K70](http://www.corsair.com/en/vengeance-k70-fully-mechanical-gaming-keyboard-anodized-black-na-layout)
-- [Mouse Razer Deathadder Chroma](http://www.razerzone.com/gaming-mice/razer-deathadder-chroma)
+- [Keyboard Corsair vengeance K70](http://www.corsair.com/en-us/landing/k70-rgb)
+- [Mouse Zowie EC1-A](http://zowie.benq.com/mice/ec1-a)
 - [Mouse pad Corsair MM200 Extended](http://www.corsair.com/en/corsair-mm200-gaming-mouse-mat-extended-edition)
