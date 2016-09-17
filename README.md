@@ -89,4 +89,4 @@ cl_interp_ratio "1"
 - [Display Benq XL2430T](http://www.benq.com/product/monitor/xl2430t/)
 - [Keyboard Corsair vengeance K70](http://www.corsair.com/en-us/landing/k70-rgb)
 - [Mouse Zowie EC1-A](http://zowie.benq.com/mice/ec1-a)
-- [Mouse pad Corsair MM200 Extended](http://www.corsair.com/en/corsair-mm200-gaming-mouse-mat-extended-edition)
+- [Mousepad SteelSeries QcK Heavy ](https://steelseries.com/gaming-mousepads/qck-heavy)
