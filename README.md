@@ -61,12 +61,8 @@ sensitivity 1.85
 rate            "1048576"
 cl_updaterate   "128"
 cl_cmdrate      "128"
-cl_smooth       "1"
-cl_smoothtime   "0.01"
-cl_interp       "0"
-cl_interp_all   "0"
+cl_interp       "0.00"
 cl_interp_ratio "1"
-net_splitpacket_maxrate "1048576"
 ```
 
 ## Hardware
