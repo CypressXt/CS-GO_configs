@@ -81,7 +81,7 @@ cl_interp_ratio "1"
 - [Intel i5 6500](http://ark.intel.com/fr/products/88184/Intel-Core-i5-6500-Processor-6M-Cache-up-to-3_60-GHz)
 - [16Gb DDR4 Corsair vengeance](http://www.corsair.com/en/vengeance-lpx-16gb-2x8gb-ddr4-dram-3000mhz-c15-memory-kit-black-cmk16gx4m2b3000c15)
 - [Asus Z170I PRO GAMING](https://www.asus.com/Motherboards/Z170I-PRO-GAMING/)
-- [AMD XFX RX 480 OC](http://www.xfxforce.com/en-us/products/amd-radeon-rx-400-series/rx480xxx-rx-480m8bfa6)
+- [XFX AMD RX 480 OC](http://www.xfxforce.com/en-us/products/amd-radeon-rx-400-series/rx480xxx-rx-480m8bfa6)
 - [Cooltek case UMX1 Plus Window](http://www.cooltek.de/en/jonsbo/umx-series/142/umx1-plus-window)
 
 ### Peripherals
