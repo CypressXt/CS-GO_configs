@@ -58,7 +58,7 @@ sensitivity 1.85
 ## Netcode
 
 ```
-rate            "1048576"
+rate            "786432"
 cl_updaterate   "128"
 cl_cmdrate      "128"
 cl_interp       "0.00"
