@@ -35,6 +35,24 @@ cl_crosshairstyle "4"
 cl_crosshairthickness "1"
 cl_crosshairusealpha "1"
 ```
+## Graphics settings & resolution
+```
+Shadow: low
+Textures/models: low
+Effects: low
+Shaders: low
+Multicore rendering: yes
+MSAA: 2x MSAA
+Texture filtering: bilinear
+FXAA: yes
+Vsync: no
+motion blur: no
+```
+### Resolution
+
+```
+1920 x 1080
+```
 
 ## Sensitivity
 
