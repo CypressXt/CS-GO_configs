@@ -37,7 +37,7 @@ cl_crosshairusealpha "1"
 ```
 ## Graphics settings & resolution
 ```
-Shadow: low
+Shadow: high
 Textures/models: low
 Effects: low
 Shaders: low
