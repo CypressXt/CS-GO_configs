@@ -51,7 +51,7 @@ motion blur: no
 ### Resolution
 
 ```
-1920 x 1080
+2560 x 1440
 ```
 
 ## Sensitivity
@@ -105,7 +105,7 @@ cl_interp_ratio "1"
 
 ### Peripherals
 
-- [Display Benq XL2430T](http://www.benq.com/product/monitor/xl2430t/)
+- [Display Dell S2417DG](http://www.dell.com/ed/business/p/dell-s2417dg-monitor/pd)
 - [Keyboard Corsair vengeance K70 RGB](http://www.corsair.com/en-us/landing/k70-rgb)
 - [Mouse Zowie EC1-A](http://zowie.benq.com/mice/ec1-a)
 - [Mousepad SteelSeries QcK Heavy ](https://steelseries.com/gaming-mousepads/qck-heavy)
