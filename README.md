@@ -89,7 +89,7 @@ cl_interp_ratio "1"
 - [Intel i7 5820K](http://ark.intel.com/fr/products/82932/Intel-Core-i7-5820K-Processor-15M-Cache-up-to-3_60-GHz)
 - [16Gb DDR4 Corsair Dominator](http://www.corsair.com/en/dominator-platinum-series-16gb-2-x-8gb-ddr4-dram-2666mhz-c15-memory-kit-cmd16gx4m2a2666c15)
 - [Asus x99-M WS](https://www.asus.com/Motherboards/X99M_WS/)
-- [Dual XFX AMD R9 290x](http://www.xfxforce.com/en-us/products/amd-radeon-r9-200-series/amd-radeon-r9-290x-black-edition-r9-290x-edbd)
+- [ASUS GeForce GTX 1080 Ti STRIX](https://www.asus.com/Graphics-Cards/ROG-STRIX-GTX1080TI-O11G-GAMING/overview/)
 - [Samsung 950 pro 256Gb](http://www.samsung.com/semiconductor/minisite/ssd/product/consumer/950pro.html)
 - [Parvum mATX S2.0 case](http://www.parvumsystems.com/product/s2-5-matx)
 
