@@ -49,7 +49,7 @@ motion blur: no
 ### Resolution
 
 ```
-2560 x 1440
+1360 x 768
 ```
 
 ## Sensitivity
