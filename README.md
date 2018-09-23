@@ -90,13 +90,13 @@ cl_interp_ratio "1"
 - [16Gb DDR4 G.Skill Trident Z RGB](https://www.gskill.com/en/product/f4-3000c16d-16gtzr)
 - [Asus ROG STRIX x99](https://www.asus.com/Motherboards/ROG-STRIX-X99-GAMING/)
 - [ASUS GeForce GTX 1080 Ti STRIX](https://www.asus.com/Graphics-Cards/ROG-STRIX-GTX1080TI-O11G-GAMING/overview/)
-- [Samsung 950 pro 256Gb](http://www.samsung.com/semiconductor/minisite/ssd/product/consumer/950pro.html)
+- [Samsung 950 pro 256Gb](https://www.samsung.com/ch_fr/memory-storage/950-pro-nvme-m-2-ssd/MZ-V5P512BW/)
 - [Corsair 570x case](https://www.corsair.com/us/en/Categories/Products/Cases/570x-rgb-config/p/CC-9011098-WW)
 
 ### Lanbox
 
 - [Intel i3 8350K](https://ark.intel.com/products/126689/Intel-Core-i3-8350K-Processor-8M-Cache-4_00-GHz)
-- [16Gb DDR4 Corsair vengeance](http://www.corsair.com/en/vengeance-lpx-16gb-2x8gb-ddr4-dram-3000mhz-c15-memory-kit-black-cmk16gx4m2b3000c15)
+- [16Gb DDR4 DOMINATOR PLATINUM](https://www.corsair.com/us/en/Categories/Products/Memory/DOMINATOR®-PLATINUM-16GB-%282-x-8GB%29-DDR4-DRAM-3000MHz-C15-Memory-Kit/p/CMD16GX4M2B3000C15)
 - [ASUS STRIX Z370-I GAMING](https://www.asus.com/us/Motherboards/ROG-STRIX-Z370-I-GAMING/)
 - [Asus ROG STRIX GTX1080](https://www.asus.com/Graphics-Cards/ROG-STRIX-GTX1080-O8G-GAMING/)
 - [Samsung 960 evo 256Gb](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-960-evo-m-2-250gb-mz-v6e250bw/)
