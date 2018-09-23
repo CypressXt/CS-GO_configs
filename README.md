@@ -87,19 +87,20 @@ cl_interp_ratio "1"
 ### Main
 
 - [Intel i7 5820K](http://ark.intel.com/fr/products/82932/Intel-Core-i7-5820K-Processor-15M-Cache-up-to-3_60-GHz)
-- [16Gb DDR4 Corsair Dominator](http://www.corsair.com/en/dominator-platinum-series-16gb-2-x-8gb-ddr4-dram-2666mhz-c15-memory-kit-cmd16gx4m2a2666c15)
-- [Asus x99-M WS](https://www.asus.com/Motherboards/X99M_WS/)
+- [16Gb DDR4 G.Skill Trident Z RGB](https://www.gskill.com/en/product/f4-3000c16d-16gtzr)
+- [Asus ROG STRIX x99](https://www.asus.com/Motherboards/ROG-STRIX-X99-GAMING/)
 - [ASUS GeForce GTX 1080 Ti STRIX](https://www.asus.com/Graphics-Cards/ROG-STRIX-GTX1080TI-O11G-GAMING/overview/)
 - [Samsung 950 pro 256Gb](http://www.samsung.com/semiconductor/minisite/ssd/product/consumer/950pro.html)
-- [Parvum mATX S2.0 case](http://www.parvumsystems.com/product/s2-5-matx)
+- [Corsair 570x case](https://www.corsair.com/us/en/Categories/Products/Cases/570x-rgb-config/p/CC-9011098-WW)
 
 ### Lanbox
 
-- [Intel i5 6500](http://ark.intel.com/fr/products/88184/Intel-Core-i5-6500-Processor-6M-Cache-up-to-3_60-GHz)
+- [Intel i3 8350K](https://ark.intel.com/products/126689/Intel-Core-i3-8350K-Processor-8M-Cache-4_00-GHz)
 - [16Gb DDR4 Corsair vengeance](http://www.corsair.com/en/vengeance-lpx-16gb-2x8gb-ddr4-dram-3000mhz-c15-memory-kit-black-cmk16gx4m2b3000c15)
-- [Asus Z170I PRO GAMING](https://www.asus.com/Motherboards/Z170I-PRO-GAMING/)
-- [XFX AMD RX 480 OC](http://www.xfxforce.com/en-us/products/amd-radeon-rx-400-series/rx480xxx-rx-480m8bfa6)
-- [Cooltek case UMX1 Plus Window](http://www.cooltek.de/en/jonsbo/umx-series/142/umx1-plus-window)
+- [ASUS STRIX Z370-I GAMING](https://www.asus.com/us/Motherboards/ROG-STRIX-Z370-I-GAMING/)
+- [Asus ROG STRIX GTX1080](https://www.asus.com/Graphics-Cards/ROG-STRIX-GTX1080-O8G-GAMING/)
+- [Samsung 960 evo 256Gb](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/ssd-960-evo-m-2-250gb-mz-v6e250bw/)
+- [DanCase A4SFX](https://www.dan-cases.com/dana4.php)
 
 ### Peripherals
 
