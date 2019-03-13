@@ -6,7 +6,7 @@ You can find here all my csgo configurations files. To be sure of using the last
 
 ## Launch options
 ```
--tickrate 128 -high -refresh 144 -novid +exec autoexec.cfg
+-tickrate 128 -high -refresh 144 -novid -d3d9ex +exec autoexec.cfg
 ```
 
 ## Crosshair
